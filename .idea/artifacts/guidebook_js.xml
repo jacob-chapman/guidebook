@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="guidebook-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="guidebook-js.jar">
+      <element id="module-output" name="guidebook.jsMain" />
+    </root>
+  </artifact>
+</component>
